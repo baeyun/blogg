@@ -1,15 +1,20 @@
 {
-  "name": "nextjs",
+  "name": "blogg",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+  "scripts": {},
+  "dependencies": {},
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukharim96/blogg.git"
   },
-  "dependencies": {
-    "next": "9.2.2",
-    "react": "16.13.0",
-    "react-dom": "16.13.0"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bukharim96/blogg/issues"
+  },
+  "homepage": "https://github.com/bukharim96/blogg#readme"
 }
