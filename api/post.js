@@ -3,5 +3,7 @@ module.exports = (req, res) => {
     query: { name }
   } = req;
 
+  console.log(req);
+
   res.send(`Hello ${name}!`);
 };
